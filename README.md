@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Bem vindo ao meu perfil GitHub!
+Por aqui você vai encontrar alguns dos meus projetos.
+
+Alguns criação própria, alguns utilizados para aprendizado.
+
 <!--
 **manuferreira2/manuferreira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
