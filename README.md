@@ -7,6 +7,11 @@ Por aqui você vai encontrar alguns dos meus projetos.
 Alguns criação própria, alguns utilizados para aprendizado.
 Navegue pelos reposítorios para me conhecer um pouco melhor. 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Ah e vamos nos conectar no linkedin? Ao lado está o link do meu perfil!
 
 <!--
