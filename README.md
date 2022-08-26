@@ -1,6 +1,7 @@
-### Hi there 👋
+### Olá 👋
 
 Bem vindo ao meu perfil GitHub!
+
 Por aqui você vai encontrar alguns dos meus projetos.
 
 Alguns criação própria, alguns utilizados para aprendizado.
