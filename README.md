@@ -16,7 +16,7 @@ Navegue pelos reposítorios para me conhecer um pouco melhor.
 
 - ⚡ **SQL, Python, JavaScript, HTML, CSS, PHP**
 
-- 👀 Futura engenheira de software 
+- 👀 Futura engenheira de software!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
