@@ -12,14 +12,14 @@ Navegue pelos reposítorios para me conhecer um pouco melhor.
 
 - 🔥 Desenvolvedora back-end e analista de dados.
 
-- 🔭 Cursando ADS. (Em busca de estágio 😏) 
+- 🔭 No momento cursando análise e desenvolvimento de sistemas na Estácio
 
-- ⚡ **JavaScript, HTML, CSS, MySQL, Python**
+- ⚡ **SQL, Python, JavaScript, HTML, CSS, PHP **
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="left">Vamos nos conectar ?</h1>
+<h2 align="left">Minhas redes</h2>
 
 [<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='whatsapp' height='30'>](https://wa.me/553191105365) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/emanuelle-ferreira-936218243/)
 
