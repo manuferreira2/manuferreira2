@@ -10,11 +10,13 @@ Navegue pelos reposítorios para me conhecer um pouco melhor.
 
 ## Sombre mim
 
-- 🔥 Desenvolvedora back-end e analista de dados.
+- 🔥 Analista de dados
 
 - 🔭 No momento cursando análise e desenvolvimento de sistemas na Estácio
 
 - ⚡ **SQL, Python, JavaScript, HTML, CSS, PHP**
+
+- 👀 Futura engenheira de software 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
