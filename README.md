@@ -17,7 +17,7 @@ Navegue pelos reposítorios para me conhecer um pouco melhor.
 - ⚡ **JavaScript, HTML, CSS, MySQL, Python**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">Vamos nos conectar ?</h1>
 
