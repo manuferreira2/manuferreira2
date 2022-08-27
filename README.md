@@ -14,7 +14,7 @@ Navegue pelos reposítorios para me conhecer um pouco melhor.
 
 - 🔭 No momento cursando análise e desenvolvimento de sistemas na Estácio
 
-- ⚡ **SQL, Python, JavaScript, HTML, CSS, PHP **
+- ⚡ **SQL, Python, JavaScript, HTML, CSS, PHP**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuferreira2&&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
